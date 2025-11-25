@@ -124,7 +124,7 @@ export default function HLSPlayer() {
             />
           </Stack>
         </Box>
-        <MiniInfo animeId={animeid} />
+        {/* <MiniInfo animeId={animeid} /> */}
       </Stack>
     </Box>
   );
