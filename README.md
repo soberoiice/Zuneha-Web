@@ -6,7 +6,7 @@
         width="200"
         height="200"
       />
-    </p>
+</p>
 
 > A clean and fast anime-streaming web app built with React and Vite.
 
@@ -16,7 +16,7 @@
 
 Zunesha-Web lets users browse and watch anime through a smooth interface with quick loading and a simple layout.
 
-## <div>
+<div>
 
 ## ✨ Features
 
