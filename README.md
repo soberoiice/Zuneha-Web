@@ -1,5 +1,6 @@
 <div align="center">
-# 🎬 Zunesha-Web
+Zunesha-Web
+<div>
 <p align="center">
       <img
         src="./src/assets/Zunisha.png"
@@ -15,8 +16,6 @@
 [![Status](https://img.shields.io/badge/Status-Active-green)]()
 
 Zunesha-Web lets users browse and watch anime through a smooth interface with quick loading and a simple layout.
-
-<div>
 
 ## ✨ Features
 
